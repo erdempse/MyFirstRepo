@@ -1,1 +1,1 @@
-some content
+some contentAdding this change on the conflict branch
